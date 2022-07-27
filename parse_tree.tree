@@ -1,0 +1,20 @@
+; DIRECTIVE: parse tree
+START
+	INPUT
+		EXPLISTI
+		
+		EXPLISTI
+		
+		EXPLISTI
+		EXPI
+			VALUES
+				IntegerValue
+					
+		EXPLISTI
+		EXPI
+			VALUES
+				IntegerValue
+					
+		EXPLISTI
+		
+		EXPLISTI
